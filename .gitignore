@@ -1,0 +1,6 @@
+
+#Cache folder
+.vscode/
+
+# Byte-compiled
+__pycache__/
